@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Lovat 👋
+# Olá, eu sou o Rafael Lordes Lovat 👋
 
 🎓 Formando em Ciência da Computação pela UVV (conclusão: Dez/2026)  
 💻 Foco em **Backend Development** — APIs REST, C#, Java, SQL  
