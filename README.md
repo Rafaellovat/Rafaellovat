@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque  **(NOTA DIA 12/08/2026) NO MOMENTO ESTOU REVISANDO E APRIMORANDO TODOS MEUS PROJETOS, POR ISSO ALGUNS LINKS PODEM NÃO ESTAR FUNCIONANDO. EM BREVE ESTAREI UPANDO MEUS PROJETOS NOVAMENTE** 
 
 - 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
 - 🌲 **[Árvore B](link-do-repo)** — Implementação de Árvore B em C com operações completas
