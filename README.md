@@ -20,11 +20,11 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL *(em desenvolvimento*
+- 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
 - 🌲 **[Árvore B](link-do-repo)** — Implementação de Árvore B em C com operações completas
-- 🤖 **[IA Conversacional (Telegram)](link-do-bottelegram)** — Automação de CRUD empresarial com React, Node.js, TypeScript e Prisma *(em desenvolvimento)*
-- 🎬 **[Cine App](link-do-cine-app)** — App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica *(em desenvolvimento — tela de compra pendente)*
-- 🧠 **PsiLink** *(Em breve)* — Aplicação web em desenvolvimento (JavaScript), com integração planejada ao Supabase
+- 🤖 **[IA Conversacional (Telegram)](link-do-bottelegram)** — Automação de CRUD empresarial com React, Node.js, TypeScript e Prisma **EM DESENVOLVIMENTO**
+- 🎬 **[Cine App](link-do-cine-app)** — App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica **EM DESENVOLVIMENTO**
+- 🧠 **PsiLink** **(Em breve)** — Aplicação web em desenvolvimento (JavaScript), com integração planejada ao Supabase
 - 💼 Também atuo no desenvolvimento do **LawVR**, projeto de realidade virtual da UVV em parceria com a Vale S.A. *(código não público devido a termo de confidencialidade)*
 
 ---
