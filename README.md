@@ -21,7 +21,7 @@
 ## 🚀 Projetos em Destaque  **(NOTA DIA 12/08/2026) NO MOMENTO ESTOU REVISANDO E APRIMORANDO TODOS MEUS PROJETOS, POR ISSO ALGUNS LINKS PODEM NÃO ESTAR FUNCIONANDO. EM BREVE ESTAREI UPANDO MEUS PROJETOS NOVAMENTE** 
 
 - 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
-- 🌲 **[Árvore B](link-do-repo)** — Implementação de Árvore B em C com operações completas
+- 🌲  [Árvore B](https://github.com/Rafaellovat/arvore-b) — Implementação de Árvore B em C com operações completas
 - 🤖 **[IA Conversacional (Telegram)](link-do-bottelegram)** — Automação de CRUD empresarial com React, Node.js, TypeScript e Prisma **EM DESENVOLVIMENTO**
 - 🎬 **[Cine App](link-do-cine-app)** — App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica **EM DESENVOLVIMENTO**
 - 🧠 **PsiLink** **(Em breve)** — Aplicação web em desenvolvimento (JavaScript), com integração planejada ao Supabase
