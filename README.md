@@ -20,10 +20,10 @@
 
 ## 🚀 Projetos em Destaque  **(NOTA DIA 12/08/2026) NO MOMENTO ESTOU REVISANDO E APRIMORANDO TODOS MEUS PROJETOS, POR ISSO ALGUNS LINKS PODEM NÃO ESTAR FUNCIONANDO. EM BREVE ESTAREI UPANDO MEUS PROJETOS NOVAMENTE** 
 
-- 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
+- 🔧 **Smart Stock API** **(Em breve)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
 - 🌲  [Árvore B](https://github.com/Rafaellovat/arvore-b) — Implementação de Árvore B em C com operações completas
 - 🤖 **[Bot Telegram CRM](https://github.com/Rafaellovat/botTelegram)** — Bot de automação via Telegram com Node.js, TypeScript e Prisma
-- 🎬 **[Cine App](link-do-cine-app)** — App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica **EM DESENVOLVIMENTO**
+- 🎬 **Cine App** **(Em breve)**— App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica **EM DESENVOLVIMENTO**
 - 🧠 **PsiLink** **(Em breve)** — Aplicação web em desenvolvimento (JavaScript), com integração planejada ao Supabase
 - 💼 Também atuo no desenvolvimento do **LawVR**, projeto de realidade virtual da UVV em parceria com a Vale S.A. *(código não público devido a termo de confidencialidade)*
 
