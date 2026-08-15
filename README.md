@@ -22,7 +22,7 @@
 
 - 🔧 **[Smart Stock API](#)** — API REST de gerenciamento de estoque com C#/.NET e PostgreSQL **EM DESENVOLVIMENTO**
 - 🌲  [Árvore B](https://github.com/Rafaellovat/arvore-b) — Implementação de Árvore B em C com operações completas
-- 🤖 **[IA Conversacional (Telegram)](link-do-bottelegram)** — Automação de CRUD empresarial com React, Node.js, TypeScript e Prisma **EM DESENVOLVIMENTO**
+- 🤖 **[Bot Telegram CRM](https://github.com/Rafaellovat/botTelegram)** — Bot de automação via Telegram com Node.js, TypeScript e Prisma *(em desenvolvimento — cadastro e consulta de clientes)*
 - 🎬 **[Cine App](link-do-cine-app)** — App em React Native simulando plataforma de cinema, com carrossel de filmes em destaque e indexação dinâmica **EM DESENVOLVIMENTO**
 - 🧠 **PsiLink** **(Em breve)** — Aplicação web em desenvolvimento (JavaScript), com integração planejada ao Supabase
 - 💼 Também atuo no desenvolvimento do **LawVR**, projeto de realidade virtual da UVV em parceria com a Vale S.A. *(código não público devido a termo de confidencialidade)*
